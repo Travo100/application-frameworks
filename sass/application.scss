@@ -7,4 +7,12 @@
 			background: lightgreen;
 		}
 	}
+	.error {
+		color: red;
+		position: absolute;
+	}
+
+	button[type="submit"] {
+		margin-top: 5px;
+	}
 }

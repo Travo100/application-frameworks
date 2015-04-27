@@ -2,3 +2,8 @@
   background: pink; }
 .container input.ng-touched.ng-valid {
   background: lightgreen; }
+.container .error {
+  color: red;
+  position: absolute; }
+.container button[type="submit"] {
+  margin-top: 5px; }
